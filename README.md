@@ -52,7 +52,7 @@ Install and run the project:
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/xavidop/teelgram-voiceflow-bot.git
+git clone https://github.com/honey0120/telegram-AIbot.git
 ```
 
 2. Install dependencies:
